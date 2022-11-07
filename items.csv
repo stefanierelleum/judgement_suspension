@@ -1,0 +1,434 @@
+condition,item
+H 1.1,"Die Lehrerin hat die Aufgabe an der Tafel gelöst.
+Die Einfach- und Klarheit der Lösung erstaunte alle."
+H 1'.1,Die Klar- und Einfachheit der Lösung erstaunte alle.
+K 2.1,"Die Gäste waren sehr zufrieden mit dem Urlaub.
+Das Hotel erfüllte ihre Erwartungen und überzeugte vor allem durch Sauber- und Gemütlichkeit."
+K 2'.1,Das Hotel erfüllte ihre Erwartungen und überzeugte vor allem durch Gemütlich- und Sauberkeit.
+Mis 3.1,"Der Kontrolleur hat die Kinder gewarnt.
+Die Geisterbahn ist voller Dunkel- und Grausamkeit."
+Mis 3'.1,Die Geisterbahn ist voller Grausam- und Dunkelheit.
+H 4.1,"In Europa gibt es viele Schlösser und Burgen.
+Sie strahlen Vergangen- und Erhabenheit aus."
+H 4'.1,Sie strahlen Erhaben- und Vergangenheit aus.
+K 5.1,"Die Ermittlungen zum Autounfall sind abgeschlossen.
+Der Autounfall ist auf Fahrlässig- und Unzurechnungsfähigkeit zurückzuführen."
+K 5'.1,Der Autounfall ist auf Unzurechnungsfähig- und Fahrlässigkeit zurückzuführen.
+Mis 6.1,"Die Zeugin überzeugt vor Gericht.
+Sie strahlt Selbstsicher- und Glaubwürdigkeit aus."
+Mis 6'.1,Sie strahlt Glaubwürdig- und Selbstsicherheit aus.
+U 1.1,"Oft hören Menschen Musik aus ihrer Jugend.
+Die Lieder sind tröst- und fröhlich."
+U 1'.1,Die Lieder sind fröh- und tröstlich.
+L 2.1,"Die Nachbarin hat viele Probleme bei der Unternehmensgründung.
+Die Probleme sind vor allem zeit- und rechtlicher Natur."
+L 2'.1,Die Probleme sind vor allem recht- und zeitlicher Natur.
+Mix 3.1,"Der Minister kommt nicht zur Buchmesse nach Leipzig.
+Er hat höf- und freundlich abgesagt."
+Mix 3'.1,Er hat freund- und höflich abgesagt.
+U 4.1,"Die Familie hat Essen bestellt.
+Es schmeckt köst- und vorzüglich."
+U 4'.1,Es schmeckt vorzüg- und köstlich.
+L 5.1,"Die Bewerberin ist in die nächste Runde gekommen.
+Die Neuigkeiten sind für sie gleichzeitig erfreu- und bedrohlich."
+L 5'.1,Die Neuigkeiten sind für sie gleichzeitig bedroh- und erfreulich.
+Mix 6.1,"Immer mehr Menschen achten auf ihren ökologischen Fußabdruck.
+Nachhaltig zu leben ist natür- und verantwortlich."
+Mix 6'.1,Nachhaltig zu leben ist verantwort- und natürlich.
+H 1'.2,Ihr Auftreten strahlt Sicher- und Gewissheit aus.
+K 2.2,"In Umfragen hat die Partei unterschiedlich viele Stimmen erhalten.
+Fachleute waren sich uneinig über die Möglich- und Wahrscheinlichkeit eines Wahlsieges."
+K 2'.2,Fachleute waren sich uneinig über die Wahrscheinlich- und Möglichkeit eines Wahlsieges.
+Mis 3.2,"Die Familie hat eine enge Bindung.
+Dafür sind Verbunden- und Großzügigkeit entscheidend."
+Mis 3'.2,Dafür sind Großzügig- und Verbundenheit entscheidend.
+H 4.2,"Das Hotel liegt am Ende des Tals.
+Das Hotel bietet Gelegen- und Abgeschiedenheit zum Entspannen."
+H 4'.2,Das Hotel bietet Abgeschieden- und Gelegenheit zum Entspannen.
+K 5.2,"An der Mode im Laufe der Zeit lassen sich Hinweise auf die Geschlechterrollen erkennen.
+Jede Zeit kommt mit einer eigenen Idee von Männlich- und Weiblichkeit."
+K 5'.2,Jede Zeit kommt mit einer eigenen Idee von Weiblich- und Männlichkeit.
+Mis 6.2,"Irgendwann möchte jedes Kind ein eigenes Zimmer.
+Für Kinder sind Geborgen- und Unabhängigkeit wichtig."
+Mis 6'.2,Für Kinder sind Unabhängig- und Geborgenheit wichtig.
+H 1.2,"Die Pfarrerin hält eine kurze Ansprache.
+Ihr Auftreten strahlt Gewiss- und Sicherheit aus."
+U 1'.2,wenn die töd- und jährliche Malariasaison wieder vor der Tür steht.
+L 2.2,"Irland ist ein beliebtes Urlaubsziel.
+Die Landschaft dort ist fried- und herrlich."
+L 2'.2,Die Landschaft dort ist herr- und friedlich.
+Mix 3.2,"Ein Grund für den Fachkräftemangel ist die Bezahlung.
+Die Bezahlung vieler Berufe ist kümmer- und leidlich."
+Mix 3'.2,Die Bezahlung vieler Berufe ist leid- und kümmerlich.
+U 4.2,"Die Betreuerin widmet sich dem Jungen mit viel Aufmerksamkeit.
+Sie fördert und fordert ihn nachdrück- und zärtlich."
+U 4'.2,Sie fördert und fordert ihn zärt- und nachdrücklich.
+L 5.2,"Der Polizist hat zugegeben, einen Fehler gemacht zu haben.
+Seine Antwort war ehr- und erstaunlich."
+L 5'.2,Seine Antwort war erstaun- und ehrlich.
+Mix 6.2,"Immer wieder sterben junge Leute bei Mutproben.
+Mutproben sind gefähr- und schrecklich."
+Mix 6'.2,Mutproben sind schreck- und gefährlich.
+U 1.2,"Die Apotheken legen sich im Mai einen Vorrat an Malariamedikamenten zu,
+wenn die jähr- und tödliche Malariasaison wieder vor der Tür steht."
+K 2.3,"Der Redakteur ist relativ zufrieden mit seinem Team.
+Den Redakteur würde ein Mangel an Aufmerksam- und Aufrichtigkeit am meisten stören."
+K 2'.3,Den Redakteur würde ein Mangel an Aufrichtig- und Aufmerksamkeit am meisten stören.
+Mis 3.3,"Die Mitschülerin hat das Mädchen gehänselt.
+Das Verhalten ist an Gemein- und Hässlichkeit nicht zu übertreffen."
+Mis 3'.3,Das Verhalten ist an Hässlich- und Gemeinheit nicht zu übertreffen.
+H 4.3,"Jugendliche haben sich als Putzkräfte verkleidet und das Museum ausgeraubt.
+Die Tat wurde mit Trunken- und Verlogenheit begangen."
+H 4'.3,Die Tat wurde mit Verlogen- und Trunkenheit begangen.
+K 5.3,"Der Betriebsrat hat sich im neuen Eigentümer getäuscht.
+Die Erkenntnis über seine Eitel- und Gleichgültigkeit kam aber zu spät."
+K 5'.3,Die Erkenntnis über seine Gleichgültig- und Eitelkeit kam aber zu spät.
+Mis 6.3,"Von der Lesung waren alle begeistert.
+Die Autorin wirkte sehr sympathisch durch ihre Bescheiden- und Liebenswürdigkeit."
+Mis 6'.3,Die Autorin wirkte sehr sympathisch durch ihre Liebenswürdig- und Bescheidenheit.
+H 1.3,"Im Ring des Königs ist ein Diamant eingefasst.
+Der Diamant ist von seltener Schön- und Reinheit."
+H 1'.3,Der Diamant ist von seltener Rein- und Schönheit.
+L 2.3,"Die Kinder sind schon von weitem zu hören.
+Das Lachen ist kind- und herzlich."
+L 2'.3,Das Lachen ist herz- und kindlich.
+Mix 3.3,"Im Mittelalter waren Staat und Kirche nicht getrennt.
+Bischöfe bestimmten die gött- und weltliche Ordnung."
+Mix 3'.3,Bischöfe bestimmten die welt- und göttliche Ordnung.
+U 4.3,"Der Vorfall im Tigergehege hat alle überrascht und schockiert.
+Der Tiger hat den Pfleger vorsätz- und plötzlich angegriffen."
+U 4'.3,Der Tiger hat den Pfleger plötz- und vorsätzlich angegriffen.
+L 5.3,"Nach dem Konzert ging das Licht in der Halle an.
+Das war schließ- und augenblicklich das Ende."
+L 5'.3,Das war augenblick- und schließlich das Ende.
+Mix 6.3,"Die Trauzeugin hat bei der Hochzeit gesungen.
+Der Auftritt war lächer- und peinlich."
+Mix 6'.3,Der Auftritt war pein- und lächerlich.
+U 1.3,"Die Sekretärin ruft den Pfarrer zurück.
+Der Pfarrer hat sie kürz- und irrtümlich kontaktiert."
+U 1'.3,Der Pfarrer hat sie irrtüm- und kürzlich kontaktiert.
+K 2'.4,Sie legt viel wert auf Pünktlich- und Höflichkeit.
+Mis 3.4,"Papst zu werden, ist eine große Errungenschaft.
+Der Papst erfreut sich großer Berühmt- und Herrlichkeit."
+Mis 3'.4,Der Papst erfreut sich großer Herrlich- und Berühmtheit.
+H 4.4,"Die Spielerin fragt sich, ob ihr Spielzug erlaubt war.
+Die Gesamt- und Allgemeinheit der Regeln spricht dafür."
+H 4'.4,Die Allgemein- und Gesamtheit der Regeln spricht dafür.
+K 5.4,"Der Sänger gibt jedes Jahr ein Benefizkonzert.
+Das ist seine Art von Öffentlich- und Wohltätigkeit."
+K 5'.4,Das ist seine Art von Wohltätig- und Öffentlichkeit.
+Mis 6.4,"Alle außer ein Nachbar leben in guter Gemeinschaft.
+Vor lauter Beschränkt- und Bitterkeit hat der Nachbar keinen Kontakt zu den anderen."
+Mis 6'.4,Vor lauter Bitter- und Beschränktheit hat der Nachbar keinen Kontakt zu den anderen.
+H 1.4,"Der Anwalt hat viele Klientinnen und Klienten.
+Der Anwalt setzt sich für die Gleich- und Freiheit aller Menschen ein."
+H 1'.4,Der Anwalt setzt sich für die Frei- und Gleichheit aller Menschen ein.
+K 2.4,"Die Chefin war enttäuscht vom Verhalten ihres Mitarbeiters.
+Sie legt viel wert auf Höflich- und Pünktlichkeit."
+L 2'.4,Ihre Beziehung ist immer noch glück- und leidenschaftlich.
+Mix 3.4,"Die medizinische Forschung basiert auf dem männlichen Körper.
+Oft ist mit dem männ- und menschlichen Körper ein und das Selbe gemeint."
+Mix 3'.4,Oft ist mit dem mensch- und männlichen Körper ein und das Selbe gemeint.
+U 4.4,"Der Vorfall im Tigergehege hat alle überrascht und schockiert.
+Der Tiger hat den Pfleger vorsätz- und plötzlich angegriffen."
+U 4'.4,Der Tiger hat den Pfleger plötz- und vorsätzlich angegriffen.
+L 5.4,"Nach dem Konzert ging das Licht in der Halle an.
+Das war schließ- und augenblicklich das Ende."
+L 5'.4,Das war augenblick- und schließlich das Ende.
+Mix 6.4,"Die Trauzeugin hat bei der Hochzeit gesungen.
+Der Auftritt war lächer- und peinlich."
+Mix 6'.4,Der Auftritt war pein- und lächerlich.
+U 1.4,"Die Autorin arbeitet gerne zu Hause.
+Sie ist eher so der häus- und ängstliche Typ."
+U 1'.4,Sie ist eher so der ängst- und häusliche Typ.
+L 2.4,"Das Paar ist seit 10 Jahren verheiratet.
+Ihre Beziehung ist immer noch leidenschaft- und glücklich."
+Mis 3.5,"Die Hungersnot im Jemen ist akut.
+Die Welthungerhilfe betont die Knapp- und Notwendigkeit von Lebensmitteln."
+Mis 3'.5,Die Welthungerhilfe betont die Notwendig- und Knappheit von Lebensmitteln.
+H 4.5,"Der Journalist berichtet kritisch vom Prozess.
+Er glaubt, dass die Staatsanwälte zu viel Befangen- und Verschwiegenheit an den Tag legen."
+H 4'.5,"Er glaubt, dass die Staatsanwälte zu viel Verschwiegen- und Befangenheit an den Tag legen."
+K 5.5,"Weihnachten ist das beliebteste Fest des Jahres.
+Das Weihnachtsfest umgibt eine Atmosphäre von Heilig- und Seligkeit."
+K 5'.5,Das Weihnachtsfest bedeutet für viele eine Atmosphäre von Selig- und Heiligkeit.
+Mis 6.5,"Die Räuberbande lebt nach einem ganz bestimmten Verhaltenskodex.
+Sie schwören einander Kühn- und Brüderlichkeit."
+Mis 6'.5,Sie schwören einander Brüderlich- und Kühnheit.
+H 1.5,"Die Professorin hat in der Vorlesung ein Lied gesungen.
+Das ist die Verrückt- und Besonderheit ihrer Herangehensweise."
+H 1'.5,Das ist die Besonder- und Verrücktheit ihrer Herangehensweise.
+K 2.5,"Forschende haben neue Erkenntnisse zu den Bedürfnissen von Kindern gewonnen.
+Die Richtig- und Wichtigkeit der Erkenntnisse kann nicht oft genug betont werden."
+K 2'.5,Die Wichtig- und Richtigkeit der Erkenntnisse kann nicht oft genug betont werden.
+Mix 3.5,"Es ist nicht schlimm wenn Fiete sein Pausenbrot vergisst.
+Im Kindergarten wird alles brüder- und schwesterlich geteilt."
+Mix 3'.5,Im Kindergarten wird alles schwester- und brüderlich geteilt.
+U 4.5,"Das Unternehmen hat eine neue Agenda.
+Sie stellen hauptsäch- und grundsätzlich Frauen ein."
+U 4'.5,Sie stellen grundsätz- und hauptsächlich Frauen ein.
+L 5.5,"Es gibt eine Studie zu einem neuen Impfstoff.
+Die Ergebnisse sind wissenschaft- und vertraulich."
+L 5'.5,Die Ergebnisse sind vertrau- und wissenschaftlich.
+Mix 6.5,"Die Frau hat zwei Ärzte um Rat gefragt.
+Ihre Worte waren ähn- und deutlich."
+Mix 6'.5,Ihre Worte waren deut- und ähnlich.
+U 1.5,"Jo und Juli haben seit neustem einen Hund.
+Die beiden behandeln den Welpen mütter- und väterlich."
+U 1'.5,Die beiden behandeln den Welpen väter- und mütterlich.
+L 2.5,"Der Lehrer hat einen Schraubenzieher für alle Schüler mitgebracht.
+Der Schraubenzieher ist dünn- und handlich."
+L 2'.5,Der Schraubenzieher ist hand- und dünnlich.
+Mis 3'.6,Die gute Zusammenarbeit basiert auf Einig- und Vertrautheit.
+H 4.6,"Der Kandidat hat im Vorstellungsgespräch anzügliche Kommentare gemacht.
+Eigenschaften wie Lüstern- und Verderbtheit sind absolut unpassend."
+H 4'.6,Eigenschaften wie Verderbt- und Lüsternheit sind absolut unpassend.
+K 5.6,"Im Kloster leben die Ordensleute in absoluter Abgeschiedenheit.
+Die Ordensleute erzählen immer von Momenten der Glückselig- und Barmherzigkeit."
+K 5'.6,Die Ordensleute erzählen immer von Momenten der Barmherzig- und Glückseligkeit.
+Mis 6.6,"Die Enkel fragen die Oma gerne um Rat.
+Die Oma hat viel Weis- und Zärtlichkeit für ihre Enkel."
+Mis 6'.6,Die Oma hat viel Zärtlich- und Weisheit für ihre Enkel.
+H 1.6,"Der Bräutigam hat sich für die Überraschung bedankt.
+Die Echt- und Nettheit seiner Reaktion hat allen gefallen."
+H 1'.6,Die Nett- und Echtheit seiner Reaktion hat allen gefallen.
+K 2.6,"Nach dem Karriereende hatte der Tennisspieler viele Probleme.
+Er ist immer wieder in finanzielle Schwierig- und Abhängigkeiten geraten."
+K 2'.6,Er ist immer wieder in finanzielle Abhängig- und Schwierigkeiten geraten.
+Mis 3.6,"Der Trainer arbeitet schon lange mit der Mannschaft.
+Die gute Zusammenarbeit basiert auf Vertraut- und Einigkeit."
+Mix 3'.6,Sie treffen sich heim- und täglich.
+U 4.6,"Der Kredit muss bis Ende des Monats zurückgezahlt werden.
+Die Bank will buchstäb- und zusätzlich hundert tausend Euro."
+U 4'.6,Die Bank will zusätz- und buchstäblich hundert tausend Euro.
+L 5.6,"Der Winzer baut seit drei Jahren Wein an.
+Am Anfang hat der Wein abscheu- und widerlich geschmeckt."
+L 5'.6,Am Anfang hat der Wein wider- und abscheulich geschmeckt.
+Mix 6.6,"Das Unternehmen hat wieder einen Auftrag zuverlässig erfüllt.
+Die Arbeitsleistung ist gewöhn- und ordentlich."
+Mix 6'.6,Die Arbeitsleistung ist ordent- und gewöhnlich.
+U 1.6,"Es landet viel Plastikmüll im Meer.
+Besonders Mikroplastik ist künst- und schädlich."
+U 1'.6,Besonders Mikroplastik ist schäd- und künstlich.
+L 2.6,"Nach der Landung müssen die Passagiere noch die offizielle Einreise durchlaufen. 
+Die Passkontrolle am Flughafen ist üb- und polizeilich."
+L 2'.6,Die Passkontrolle am Flughafen ist polizei- und üblich.
+Mix 3.6,"Der Friseur und die Schauspielerin haben eine Affäre.
+Sie treffen sich täg- und heimlich."
+H 4.7,"Das Ehepaar verhandelt seine Scheidung vor Gericht.
+Der Richter vermittelt mit Besonnen- und Rechtschaffenheit."
+H 4'.7,Der Richter vermittelt mit Rechtschaffen- und Besonnenheit.
+K 5.7,"Das Essen im neuen Restaurant schmeckt gut.
+Die Feindselig- und Unfähigkeit der Angestellten ist aber alles andere als guter Service."
+K 5'.7,Die Unfähig- und Feindseligkeit der Angestellten ist alles andere als guter Service.
+Mis 6.7,"Frauen sind in ihrer Sexualität oft eingeschränkter als Männer.
+Für sie gelten Konzepte wie Keusch- und Jungfräulichkeit häufiger."
+Mis 6'.7,"Frauen sind in ihrer Sexualität oft eingeschränkter als Männer.
+Für sie gelten Konzepte wie Jungfräulich- und Keuschheit häufiger."
+H 1.7,"Die Tennisspielerin hat ihre Teilnahme am Turnier abgesagt.
+Allen war die Dumm- und Feigheit ihrer Entscheidung klar."
+H 1'.7,Allen war die Feig- und Dummheit ihrer Entscheidung klar.
+K 2.7,"Der Ehemann der Nachbarin ist letztes Jahr gestorben.
+Die Zeit danach war von Einsam- und Traurigkeit geprägt."
+K 2'.7,Die Zeit danach war von Traurig- und Einsamkeit geprägt.
+Mis 3.7,"Die Polizei äußert sich noch nicht zu den Ermittlungen.
+Die Begeben- und Zuständigkeiten in dem Fall sind noch nicht geklärt."
+Mis 3'.7,Die Zuständig- und Begebenheiten in dem Fall sind noch nicht geklärt.
+U 4.7,"Was ist eine Zeitung?
+Eine Zeitung ist ein auf die Gegenwart bezüg- und alltägliches Medium."
+U 4'.7,Eine Zeitung ist ein alltäg- und auf die Gegenwart bezügliches Medium.
+L 5.7,"Der Bäcker hat der Kundin sein Geheimnis verraten:
+Wir verwenden ausschließ- und ausdrücklich regionale Zutaten."
+L 5'.7,Wir verwenden ausdrück- und ausschließlich regionale Zutaten.
+Mix 6.7,"Der Lehrer kann seinen Sohn nicht alleine lassen.
+Das klingt als wäre er sehr anhäng- und empfindlich."
+Mix 6'.7,Das klingt als wäre er sehr empfind- und anhänglich.
+U 1.7,"Viele Touristen kommen nicht ins Sauerland.
+In der Gegend ist es länd- und eigentümlich."
+U 1'.7,In der Gegend hier ist es eigentüm- und ländlich.
+L 2.7,"Das Geschäft war letzte Woche geschlossen.
+Der Chef war beruf- und dienstlich in Singapur."
+L 2'.7,Der Chef war dienst- und beruflich in Singapur.
+Mix 3.7,"Die Polizei hat kiloweise Drogen in der Wohnung gefunden.
+Die Durchsuchung Mitten in der Nacht war gründ- und amtlich."
+Mix 3'.7,Die Durchsuchung Mitten in der Nacht war amt- und gründlich.
+H 4'.8,Eine Ausbildung in Frankreich steht für Kultiviert- und Gewandtheit.
+K 5.8,"Beim Konzert war die Stimmung so gut.
+Für eine Sekunde war der Zauber von Unsterblich- und Unendlichkeit zu spüren."
+K 5'.8,Für eine Sekunde war der Zauber von Unendlich- und Unsterblichkeit zu spüren.
+Mis 6.8,"Der Renteneintritt kann Menschen in eine Krise stürzen.
+Viele werden sich im Alter ihrer Unzufrieden- und Sterblichkeit bewusst."
+Mis 6'.8,Viele werden sich im Alter ihrer Sterblich- und Unzufriedenheit bewusst.
+H 1.8,"Yoga und Meditation sind beliebte Hobbies.
+Viele streben innere Gelassen- und Zufriedenheit an."
+H 1'.8,Viele streben innere Zufrieden- und Gelassenheit an.
+K 2.8,"Die Braut hat sich bei ihrer Familie bedankt.
+Die Ehrlich- und Freundlichkeit ihrer Worte war rührend."
+K 2'.8,Die Freundlich- und Ehrlichkeit ihrer Worte war rührend.
+Mis 3.8,"Die Lehrerin ist frisch verheiratet.
+Sie ist voller kindischer Verliebt- und Fröhlichkeit."
+Mis 3'.8,Die Lehrerin ist voller kindischer Fröhlich- und Verliebtheit.
+H 4.8,"Den Eltern ist wichtig, dass ihre Kinder auf eine Schule in Frankreich gehen.
+Eine Ausbildung in Frankreich steht für Gewandt- und Kultiviertheit."
+U 4'.8,Seine Verteidigung war jämmer- und widersprüchlich.
+L 5.8,"Auf der Autobahn war ein schlimmer Unfall.
+Selbst für erfahrene Rettungskräfte war der Anblick entsetz- und sonderlich."
+L 5'.8,Selbst für erfahrene Rettungskräfte war der Anblick sonder- und entsetzlich.
+Mix 6.8,"Die Beamtin gibt dem Mann einen Stapel Formulare.
+Der ganze Papierkram für ein Visum ist umständ- und erforderlich."
+Mix 6'.8,Der ganze Papierkram für ein Visum ist erforder- und umständlich.
+U 1.8,"Gefühlt hat jeder zweite Zug Verspätung.
+In diesem Zustand ist die Deutsche Bahn leider weder pünkt- noch nützlich."
+U 1'.8,In diesem Zustand ist die Deutsche Bahn leider weder nütz- noch pünktlich.
+L 2.8,"Auf einmal waren alle Blätter im Garten verstreut.
+Das war absicht- und sicherlich der Nachbar."
+L 2'.8,Das war sicher- und absichtlich der Nachbar.
+Mix 3.8,"Der Landwirt muss mehr auf seine Gesundheit achten.
+Für die Gesundheit ist Ruhe wichtig vor allem nächt- und abendlich."
+Mix 3'.8,Für die Gesundheit ist Ruhe wichtig vor allem abend- und nächtlich.
+U 4.8,"Der Anwalt hat die Ankläger nicht überzeugt.
+Seine Verteidigung war widersprüch- und jämmerlich."
+K 5.1,"Die Ermittlungen zum Autounfall sind abgeschlossen.
+Der Autounfall ist auf Fahrlässig- und Unzurechnungsfähigkeit zurückzuführen."
+K 5'.1,Der Autounfall ist auf Unzurechnungsfähig- und Fahrlässigkeit zurückzuführen.
+Mis 6.1,"Die Zeugin überzeugt vor Gericht.
+Sie strahlt Selbstsicher- und Glaubwürdigkeit aus."
+Mis 6'.1,Sie strahlt Glaubwürdig- und Selbstsicherheit aus.
+H 1.1,"Die Lehrerin hat die Aufgabe an der Tafel gelöst.
+Die Einfach- und Klarheit der Lösung erstaunte alle."
+H 1'.1,Die Klar- und Einfachheit der Lösung erstaunte alle.
+K 2.1,"Die Gäste waren sehr zufrieden mit dem Urlaub.
+Das Hotel erfüllte ihre Erwartungen und überzeugte vor allem durch Sauber- und Gemütlichkeit."
+K 2'.1,Das Hotel erfüllte ihre Erwartungen und überzeugte vor allem durch Gemütlich- und Sauberkeit.
+Mis 3.1,"Der Kontrolleur hat die Kinder gewarnt.
+Die Geisterbahn ist voller Dunkel- und Grausamkeit."
+Mis 3'.1,Die Geisterbahn ist voller Grausam- und Dunkelheit.
+H 4.1,"In Europa gibt es viele Schlösser und Burgen.
+Sie strahlen Vergangen- und Erhabenheit aus."
+H 4'.1,Sie strahlen Erhaben- und Vergangenheit aus.
+L 5.1,"Die Bewerberin ist in die nächste Runde gekommen.
+Die Neuigkeiten sind für sie gleichzeitig erfreu- und bedrohlich."
+L 5'.1,Die Neuigkeiten sind für sie gleichzeitig bedroh- und erfreulich.
+Mix 6.1,"Immer mehr Menschen achten auf ihren ökologischen Fußabdruck.
+Nachhaltig zu leben ist natür- und verantwortlich."
+Mix 6'.1,Nachhaltig zu leben ist verantwort- und natürlich.
+U 1.1,"Oft hören Menschen Musik aus ihrer Jugend.
+Die Lieder sind tröst- und fröhlich."
+U 1'.1,Die Lieder sind fröh- und tröstlich.
+L 2.1,"Die Nachbarin hat viele Probleme bei der Unternehmensgründung.
+Die Probleme sind vor allem zeit- und rechtlicher Natur."
+L 2'.1,Die Probleme sind vor allem recht- und zeitlicher Natur.
+Mix 3.1,"Der Minister kommt nicht zur Buchmesse nach Leipzig.
+Er hat höf- und freundlich abgesagt."
+Mix 3'.1,Er hat freund- und höflich abgesagt.
+U 4.1,"Die Familie hat Essen bestellt.
+Es schmeckt köst- und vorzüglich."
+U 4'.1,Es schmeckt vorzüg- und köstlich.
+K 5'.2,Jede Zeit kommt mit einer eigenen Idee von Weiblich- und Männlichkeit.
+Mis 6.2,"Irgendwann möchte jedes Kind ein eigenes Zimmer.
+Für Kinder sind Geborgen- und Unabhängigkeit wichtig."
+Mis 6'.2,Für Kinder sind Unabhängig- und Geborgenheit wichtig.
+H 1.2,"Die Pfarrerin hält eine kurze Ansprache.
+Ihr Auftreten strahlt Gewiss- und Sicherheit aus."
+H 1'.2,Ihr Auftreten strahlt Sicher- und Gewissheit aus.
+K 2.2,"In Umfragen hat die Partei unterschiedlich viele Stimmen erhalten.
+Fachleute waren sich uneinig über die Möglich- und Wahrscheinlichkeit eines Wahlsieges."
+K 2'.2,Fachleute waren sich uneinig über die Wahrscheinlich- und Möglichkeit eines Wahlsieges.
+Mis 3.2,"Die Familie hat eine enge Bindung.
+Dafür sind Verbunden- und Großzügigkeit entscheidend."
+Mis 3'.2,Dafür sind Großzügig- und Verbundenheit entscheidend.
+H 4.2,"Das Hotel liegt am Ende des Tals.
+Das Hotel bietet Gelegen- und Abgeschiedenheit zum Entspannen."
+H 4'.2,Das Hotel bietet Abgeschieden- und Gelegenheit zum Entspannen.
+K 5.2,"An der Mode im Laufe der Zeit lassen sich Hinweise auf die Geschlechterrollen erkennen.
+Jede Zeit kommt mit einer eigenen Idee von Männlich- und Weiblichkeit."
+L 5'.2,Seine Antwort war erstaun- und ehrlich.
+Mix 6.2,"Immer wieder sterben junge Leute bei Mutproben.
+Mutproben sind gefähr- und schrecklich."
+Mix 6'.2,Mutproben sind schreck- und gefährlich.
+U 1.2,"Die Apotheken legen sich im Mai einen Vorrat an Malariamedikamenten zu,
+wenn die jähr- und tödliche Malariasaison wieder vor der Tür steht."
+U 1'.2,wenn die töd- und jährliche Malariasaison wieder vor der Tür steht.
+L 2.2,"Irland ist ein beliebtes Urlaubsziel.
+Die Landschaft dort ist fried- und herrlich."
+L 2'.2,Die Landschaft dort ist herr- und friedlich.
+Mix 3.2,"Ein Grund für den Fachkräftemangel ist die Bezahlung.
+Die Bezahlung vieler Berufe ist kümmer- und leidlich."
+Mix 3'.2,Die Bezahlung vieler Berufe ist leid- und kümmerlich.
+U 4.2,"Die Betreuerin widmet sich dem Jungen mit viel Aufmerksamkeit.
+Sie fördert und fordert ihn nachdrück- und zärtlich."
+U 4'.2,Sie fördert und fordert ihn zärt- und nachdrücklich.
+L 5.2,"Der Polizist hat zugegeben, einen Fehler gemacht zu haben.
+Seine Antwort war ehr- und erstaunlich."
+Mis 6.3,"Von der Lesung waren alle begeistert.
+Die Autorin wirkte sehr sympathisch durch ihre Bescheiden- und Liebenswürdigkeit."
+Mis 6'.3,Die Autorin wirkte sehr sympathisch durch ihre Liebenswürdig- und Bescheidenheit.
+H 1.3,"Im Ring des Königs ist ein Diamant eingefasst.
+Der Diamant ist von seltener Schön- und Reinheit."
+H 1'.3,Der Diamant ist von seltener Rein- und Schönheit.
+K 2.3,"Der Redakteur ist relativ zufrieden mit seinem Team.
+Den Redakteur würde ein Mangel an Aufmerksam- und Aufrichtigkeit am meisten stören."
+K 2'.3,Den Redakteur würde ein Mangel an Aufrichtig- und Aufmerksamkeit am meisten stören.
+Mis 3.3,"Die Mitschülerin hat das Mädchen gehänselt.
+Das Verhalten ist an Gemein- und Hässlichkeit nicht zu übertreffen."
+Mis 3'.3,Das Verhalten ist an Hässlich- und Gemeinheit nicht zu übertreffen.
+H 4.3,"Jugendliche haben sich als Putzkräfte verkleidet und das Museum ausgeraubt.
+Die Tat wurde mit Trunken- und Verlogenheit begangen."
+H 4'.3,Die Tat wurde mit Verlogen- und Trunkenheit begangen.
+K 5.3,"Der Betriebsrat hat sich im neuen Eigentümer getäuscht.
+Die Erkenntnis über seine Eitel- und Gleichgültigkeit kam aber zu spät."
+K 5'.3,Die Erkenntnis über seine Gleichgültig- und Eitelkeit kam aber zu spät.
+Mix 6.3,"Die Firma hat der Studentin ein Angebot gemacht.
+Sie hat aber tatsäch- und wirklich mehr verlangt."
+Mix 6'.3,Sie hat aber wirk- und tatsächlich mehr verlangt.
+U 1.3,"Die Sekretärin ruft den Pfarrer zurück.
+Der Pfarrer hat sie kürz- und irrtümlich kontaktiert."
+U 1'.3,Der Pfarrer hat sie irrtüm- und kürzlich kontaktiert.
+L 2.3,"Die Kinder sind schon von weitem zu hören.
+Das Lachen ist kind- und herzlich."
+L 2'.3,Das Lachen ist herz- und kindlich.
+Mix 3.3,"Im Mittelalter waren Staat und Kirche nicht getrennt.
+Bischöfe bestimmten die gött- und weltliche Ordnung."
+Mix 3'.3,Bischöfe bestimmten die welt- und göttliche Ordnung.
+U 4.3,"Die neuen Nachbarn gestalten ihren Vorgarten mit Schotter.
+Schottergärten sind gräss- und hässlich."
+U 4'.3,Schottergärten sind häss- und grässlich.
+L 5.3,"Der neue Therapiehund ist sehr beliebt,
+weil er nied- und behilflich ist."
+L 5'.3,weil er behilf- und niedlich ist.
+Mis 6'.4,Vor lauter Bitter- und Beschränktheit hat der Nachbar keinen Kontakt zu den anderen.
+H 1.5,"Die Professorin hat in der Vorlesung ein Lied gesungen.
+Das ist die Verrückt- und Besonderheit ihrer Herangehensweise."
+H 1'.4,Der Anwalt setzt sich für die Frei- und Gleichheit aller Menschen ein.
+K 2.4,"Die Chefin war enttäuscht vom Verhalten ihres Mitarbeiters.
+Sie legt viel wert auf Höflich- und Pünktlichkeit."
+K 2'.4,Sie legt viel wert auf Pünktlich- und Höflichkeit.
+Mis 3.4,"Papst zu werden, ist eine große Errungenschaft.
+Der Papst erfreut sich großer Berühmt- und Herrlichkeit."
+Mis 3'.4,Der Papst erfreut sich großer Herrlich- und Berühmtheit.
+H 4.4,"Die Spielerin fragt sich, ob ihr Spielzug erlaubt war.
+Die Gesamt- und Allgemeinheit der Regeln spricht dafür."
+H 4'.4,Die Allgemein- und Gesamtheit der Regeln spricht dafür.
+K 5.4,"Der Sänger gibt jedes Jahr ein Benefizkonzert.
+Das ist seine Art von Öffentlich- und Wohltätigkeit."
+K 5'.4,Das ist seine Art von Wohltätig- und Öffentlichkeit.
+Mis 6.4,"Alle außer ein Nachbar leben in guter Gemeinschaft.
+Vor lauter Beschränkt- und Bitterkeit hat der Nachbar keinen Kontakt zu den anderen."
+Mix 6'.4,Der Auftritt war pein- und lächerlich.
+U 1.4,"Die Autorin arbeitet gerne zu Hause.
+Sie ist eher so der häus- und ängstliche Typ."
+U 1'.4,Sie ist eher so der ängst- und häusliche Typ.
+L 2.4,"Das Paar ist seit 10 Jahren verheiratet.
+Ihre Beziehung ist immer noch leidenschaft- und glücklich."
+L 2'.4,Ihre Beziehung ist immer noch glück- und leidenschaftlich.
+Mix 3.4,"Die medizinische Forschung basiert auf dem männlichen Körper.
+Oft ist mit dem männ- und menschlichen Körper ein und das Selbe gemeint."
+Mix 3'.4,Oft ist mit dem mensch- und männlichen Körper ein und das Selbe gemeint.
+U 4.4,"Der Vorfall im Tigergehege hat alle überrascht und schockiert.
+Der Tiger hat den Pfleger vorsätz- und plötzlich angegriffen."
+U 4'.4,Der Tiger hat den Pfleger plötz- und vorsätzlich angegriffen.
+L 5.4,"Nach dem Konzert ging das Licht in der Halle an.
+Das war schließ- und augenblicklich das Ende."
+L 5'.4,Das war augenblick- und schließlich das Ende.
+Mix 6.4,"Die Trauzeugin hat bei der Hochzeit gesungen.
+Der Auftritt war lächer- und peinlich."
